@@ -1,0 +1,36 @@
+ap-northeast-1
+ap-northeast-2
+ap-south-1
+ap-southeast-1
++---------------------+-------------------------------------------------------------------------------------+-------------------+----------+-------------+
+| i-05b51ef955755c8fe| uob-mortage-2 | launch-wizard-10 | running | t2.micro |
+| i-04b924b9bbc2d3b5c| GIC - CD/UAT | launch-wizard-12 | running | t2.micro |
+| i-05a0951548066bd6d| ACUO - Will be removed mid-January. Any issue? gteillet@palo-it.com | launch-wizard-4 | stopped | t2.micro |
+| i-0bf19d232eb4b8ed8| elixir-project | launch-wizard-8 | running | t2.micro |
+| i-021f51348d07311ad| Blockchain auction - Will be removed mid-January. Any issue? gteillet@palo-it.com | launch-wizard-6 | running | t2.medium |
+| i-0e66d3fa20f604451| trade-portal | launch-wizard-11 | running | t2.micro |
+| i-0ef580c2671e233f5| PruPoeSvc | launch-wizard-31 | stopped | t2.large |
+| i-09b667a1ae6a46bce| uob-uat-server - Will be removed mid-January. Any issue? gteillet@palo-it.com | launch-wizard-2 | stopped | t2.medium |
+| i-06afccea330a1b57d| dbsserver - Will be removed mid-January. Any issue? gteillet@palo-it.com | launch-wizard-1 | stopped | t2.medium |
+| i-095c3cc1c803634b8| uob-mortage-form | launch-wizard-9 | running | t2.micro |
+| i-012fd07c0260f6c03| POPE | launch-wizard-34 | stopped | t2.xlarge |
+| i-0331228c67fd8bdce| dbs-atomic | staging-sec | stopped | t2.medium |
++---------------------+-------------------------------------------------------------------------------------+-------------------+----------+-------------+
+ap-southeast-2
+ca-central-1
+eu-central-1
+eu-north-1
+eu-west-1
++----------------------+-------+-------------------+----------+-----------+
+| i-007c4b191e5dfc9bb | None | launch-wizard-1 | running | t2.micro |
++----------------------+-------+-------------------+----------+-----------+
+eu-west-2
+eu-west-3
+sa-east-1
+us-east-1
+us-east-2
++----------------------+-------+-------------------+----------+-----------+
+| i-02363aa04dd989f7c | None | launch-wizard-3 | stopped | t2.large |
++----------------------+-------+-------------------+----------+-----------+
+us-west-1
+us-west-2
