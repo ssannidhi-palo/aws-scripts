@@ -1,6 +1,7 @@
 #Usage: ./aws-ec2-instances-all.sh - No input parameters needed
 #Description: This script generate a list of all ec2 instances from all regions
 #Output Fields: InstanceID | Instance Name | Security Group | Status | Instance Type
+#Author: Swati Sannidhi (ssannidhi@palo-it.com)
 
 #!/usr/bin/env bash
 
